@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cost Effective Data Center Server</title>
       <link>/publication/cost-effective-data-center-server/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
@@ -18,6 +27,15 @@
       <guid>/publication/cost-effective-data-center-server/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>/project/external-project2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/external-project2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -108,24 +126,6 @@
       <guid>/publication/high-performance-general-purpose-microprocessors-past-and-future/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>/project/external-project2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/external-project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
