@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Welcome</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cost Effective Data Center Server</title>
+      <link>/publication/cost-effective-data-center-server/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cost-effective-data-center-server/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Efficient data streaming with on-chip accelerators: Opportunities and challenges</title>
+      <link>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Venice: Exploring Server Architectures for Effective Resource Sharing</title>
+      <link>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Behavior of In-Memory Computing Workloads</title>
+      <link>/publication/understanding-the-behavior-of-in-memory-computing-workloads/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/understanding-the-behavior-of-in-memory-computing-workloads/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>P-Socket: Optimizing a Communication Library for a PCIe-Based Intra-Rack Interconnect</title>
+      <link>/publication/p-socket-optimizing-a-communication-library-for-a-pcie-based-intra-rack-interconnect/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/p-socket-optimizing-a-communication-library-for-a-pcie-based-intra-rack-interconnect/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>TCNet: Cross-node Virtual Machine Communication Acceleration</title>
+      <link>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Micro-architectural Characterization of Desktop Cloud Workloads</title>
+      <link>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>A Hybrid HardwareSoftware Generated Prefetching Thread Mechanism on Chip Multiprocessors</title>
+      <link>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

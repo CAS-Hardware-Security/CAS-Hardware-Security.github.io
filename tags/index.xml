@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Welcome</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CPU芯片</title>
+      <link>/tags/cpu%E8%8A%AF%E7%89%87/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cpu%E8%8A%AF%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Architecture</title>
+      <link>/tags/computer-architecture/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/computer-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPGPU</title>
+      <link>/tags/gpgpu/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/gpgpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOPS</title>
+      <link>/tags/iops/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/iops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPC</title>
+      <link>/tags/ipc/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/ipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KVM</title>
+      <link>/tags/kvm/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/kvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orion benchmark</title>
+      <link>/tags/orion-benchmark/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/orion-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCIe</title>
+      <link>/tags/pcie/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/pcie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCIe switch</title>
+      <link>/tags/pcie-switch/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/pcie-switch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCle switch</title>
+      <link>/tags/pcle-switch/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/pcle-switch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLB miss rates</title>
+      <link>/tags/tlb-miss-rates/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/tlb-miss-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xen-based virtualization platform</title>
+      <link>/tags/xen-based-virtualization-platform/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/xen-based-virtualization-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>block device</title>
+      <link>/tags/block-device/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/block-device/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cache storage</title>
+      <link>/tags/cache-storage/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cache-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud computing</title>
+      <link>/tags/cloud-computing/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud computing market</title>
+      <link>/tags/cloud-computing-market/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cloud-computing-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clouding computering</title>
+      <link>/tags/clouding-computering/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/clouding-computering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cluster architecture</title>
+      <link>/tags/cluster-architecture/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cluster-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>commodity processors</title>
+      <link>/tags/commodity-processors/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/commodity-processors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer centres</title>
+      <link>/tags/computer-centres/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/computer-centres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-node communication</title>
+      <link>/tags/cross-node-communication/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/cross-node-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data center</title>
+      <link>/tags/data-center/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/data-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-center servers</title>
+      <link>/tags/data-center-servers/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/data-center-servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphics processing units</title>
+      <link>/tags/graphics-processing-units/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/graphics-processing-units/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ieee computer society</title>
+      <link>/tags/ieee-computer-society/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/ieee-computer-society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interconnection</title>
+      <link>/tags/interconnection/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/interconnection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern clustering</title>
+      <link>/tags/pattern-clustering/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/pattern-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rack interconnects</title>
+      <link>/tags/rack-interconnects/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/rack-interconnects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sockets</title>
+      <link>/tags/sockets/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/sockets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software performance evaluation</title>
+      <link>/tags/software-performance-evaluation/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/software-performance-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual machine</title>
+      <link>/tags/virtual-machine/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/virtual-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual machines</title>
+      <link>/tags/virtual-machines/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/virtual-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualisation</title>
+      <link>/tags/virtualisation/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/virtualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中心设计</title>
+      <link>/tags/%E4%B8%AD%E5%BF%83%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E4%B8%AD%E5%BF%83%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>互连技术</title>
+      <link>/tags/%E4%BA%92%E8%BF%9E%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E4%BA%92%E8%BF%9E%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内存访问</title>
+      <link>/tags/%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>原型系统</title>
+      <link>/tags/%E5%8E%9F%E5%9E%8B%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E5%8E%9F%E5%9E%8B%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>层次结构</title>
+      <link>/tags/%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>并行技术</title>
+      <link>/tags/%E5%B9%B6%E8%A1%8C%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E5%B9%B6%E8%A1%8C%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>指令</title>
+      <link>/tags/%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E6%8C%87%E4%BB%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据</title>
+      <link>/tags/%E6%95%B0%E6%8D%AE/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E6%95%B0%E6%8D%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据中心</title>
+      <link>/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>芯片多处理器</title>
+      <link>/tags/%E8%8A%AF%E7%89%87%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E8%8A%AF%E7%89%87%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>资源利用率</title>
+      <link>/tags/%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E7%8E%87/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E7%8E%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高性能微处理器</title>
+      <link>/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/%E9%AB%98%E6%80%A7%E8%83%BD%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
