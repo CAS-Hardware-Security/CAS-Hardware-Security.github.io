@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ieee computer society on Welcome</title>
+    <title>ieee computer society on WELCOME</title>
     <link>/tags/ieee-computer-society/</link>
-    <description>Recent content in ieee computer society on Welcome</description>
+    <description>Recent content in ieee computer society on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0800</pubDate>
       
       <guid>/publication/understanding-the-behavior-of-in-memory-computing-workloads/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

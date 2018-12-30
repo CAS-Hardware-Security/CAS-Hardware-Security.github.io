@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CPU芯片 on Welcome</title>
+    <title>CPU芯片 on WELCOME</title>
     <link>/tags/cpu%E8%8A%AF%E7%89%87/</link>
-    <description>Recent content in CPU芯片 on Welcome</description>
+    <description>Recent content in CPU芯片 on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
       <guid>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Welcome</title>
+    <title>Publications on WELCOME</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Welcome</description>
+    <description>Recent content in Publications on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
       
       <guid>/publication/cost-effective-data-center-server/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0800</pubDate>
       
       <guid>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0800</pubDate>
       
       <guid>/publication/understanding-the-behavior-of-in-memory-computing-workloads/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/p-socket-optimizing-a-communication-library-for-a-pcie-based-intra-rack-interconnect/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
       <guid>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
       
       <guid>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
       
       <guid>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 01 Dec 2006 00:00:00 +0800</pubDate>
       
       <guid>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
       
       <guid>/publication/high-performance-general-purpose-microprocessors-past-and-future/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

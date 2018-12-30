@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Welcome</title>
+    <title>Tags on WELCOME</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Welcome</description>
+    <description>Recent content in Tags on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
       <guid>/tags/cpu%E8%8A%AF%E7%89%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Architecture</title>
-      <link>/tags/computer-architecture/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/tags/computer-architecture/</guid>
       <description></description>
     </item>
     

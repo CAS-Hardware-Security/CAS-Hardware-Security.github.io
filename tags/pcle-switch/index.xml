@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PCle switch on Welcome</title>
+    <title>PCle switch on WELCOME</title>
     <link>/tags/pcle-switch/</link>
-    <description>Recent content in PCle switch on Welcome</description>
+    <description>Recent content in PCle switch on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
       
       <guid>/publication/cost-effective-data-center-server/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>

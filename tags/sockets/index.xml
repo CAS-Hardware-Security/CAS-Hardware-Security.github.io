@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sockets on Welcome</title>
+    <title>sockets on WELCOME</title>
     <link>/tags/sockets/</link>
-    <description>Recent content in sockets on Welcome</description>
+    <description>Recent content in sockets on WELCOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/p-socket-optimizing-a-communication-library-for-a-pcie-based-intra-rack-interconnect/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>
