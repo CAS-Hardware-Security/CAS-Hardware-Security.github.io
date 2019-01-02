@@ -36,7 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/about/</guid>
-      <description>  Rui Hou is a professor at Institute of Information Engineering, CAS.  Interests  Computer Architecture Processor chip design Hardware Security Artificial Intelligence  Education  PhD Institute of Computing Technology, Chinese Academy of Sciences 2007 Master Harbin Institute of Technology 2003 Bachelor Harbin Institute of Technology 2001  </description>
+      <description>Rui Hou is a professor at Institute of Information Engineering, CAS.  Interests  Computer Architecture Processor chip design Hardware Security Artificial Intelligence  About  Dr. Rui Hou’s major research interest includes CPU architecture and security, as well as data center server design. Before joined IIE, he was a processor of Institute of Computing Technology, Chinese Academy of Sciences. He published over 30 papers in international conferences and journals, and got more than 50 patents.</description>
     </item>
     
     <item>
@@ -46,6 +46,15 @@
       
       <guid>/home/about-extra/</guid>
       <description>Dr. Rui Hou is a professor at Institute of Information Engineering, CAS. His major research interest includes CPU architecture and security, as well as data center server design. Before joined IIE, he was a processor of Institute of Computing Technology, Chinese Academy of Sciences. He published over 30 papers in international conferences and journals, and got more than 50 patents. Rui has also served more than ten times on conference organizing committees in international academia community.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -64,15 +73,6 @@
       
       <guid>/home/experience/</guid>
       <description>Researcher Ph.D.supervisor  Institute of Information Engineering,CAS Leading for the Research Team of Processor Chip Security Architecture March 2017 - Present  Researcher Ph.D.supervisor  Institute of Computing Technology,CAS Director of CPU Laboratory, Advanced Computer System Research Center Developing Next Generation Data Center Server System and Core Chip National Natural Science Foundation, Academy of Sciences Strategic Pilot Project Huawei-Institute of Computing Strategic Cooperation March 2011 - March 2017  Vice President  Suzhou Zhongshenghongxin IT Co.</description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
     </item>
     
     <item>
