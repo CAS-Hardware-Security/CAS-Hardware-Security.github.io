@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conditional Speculation An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks</title>
+      <link>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venice: Exploring Server Architectures for Effective Resource Sharing</title>
+      <link>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cost Effective Data Center Server</title>
@@ -31,11 +49,128 @@
     </item>
     
     <item>
-      <title>Venice: Exploring Server Architectures for Effective Resource Sharing</title>
-      <link>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
+      <title>松耦合数据中心架构远程数据访问加速机制研究</title>
+      <link>/publication/%E6%9D%BE%E8%80%A6%E5%90%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%9E%84%E8%BF%9C%E7%A8%8B%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
+      <guid>/publication/%E6%9D%BE%E8%80%A6%E5%90%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%9E%84%E8%BF%9C%E7%A8%8B%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stateful Forward-Edge CFI Enforcement with Intel MPX</title>
+      <link>/publication/stateful-forward-edge-cfi-enforcement-with-intel-mpx/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/stateful-forward-edge-cfi-enforcement-with-intel-mpx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGuard A Hardware Based Mechanism for Backward-Edge Control-Flow Integrity</title>
+      <link>/publication/raguard-a-hardware-based-mechanism-for-backward-edge-control-flow-integrity/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/raguard-a-hardware-based-mechanism-for-backward-edge-control-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCNet: Cross-node Virtual Machine Communication Acceleration</title>
+      <link>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Remote Memory in Data Center with PCIe Fabric</title>
+      <link>/publication/using-remote-memory-in-data-center-with-pcie-fabric/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/using-remote-memory-in-data-center-with-pcie-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-architectural Characterization of Desktop Cloud Workloads</title>
+      <link>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-driven Energy-efficient Architecture Explorations for Big Data</title>
+      <link>/publication/application-driven-energy-efficient-architecture-explorations-for-big-data/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/application-driven-energy-efficient-architecture-explorations-for-big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of Stateful Hardware Acceleration in Hybrid Architectures</title>
+      <link>/publication/optimization-of-stateful-hardware-acceleration-in-hybrid-architectures/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/optimization-of-stateful-hardware-acceleration-in-hybrid-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequent Instruction Sequential Pattern Mining in Hardware Sample Data</title>
+      <link>/publication/frequent-instruction-sequential-pattern-mining-in-hardware-sample-data/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/frequent-instruction-sequential-pattern-mining-in-hardware-sample-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler and Runtime Techniques for Software Transactional Memory Optimization</title>
+      <link>/publication/compiler-and-runtime-techniques-for-software-transactional-memory-optimization/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/compiler-and-runtime-techniques-for-software-transactional-memory-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Transactional Memory System for Parallel Programming</title>
+      <link>/publication/hardware-transactional-memory-system-for-parallel-programming/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/hardware-transactional-memory-system-for-parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Sequential Programs On Chip Multiprocessors Via Dynamic Prefetching Thread</title>
+      <link>/publication/accelerating-sequential-programs-on-chip-multiprocessors-via-dynamic-prefetching-thread/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/accelerating-sequential-programs-on-chip-multiprocessors-via-dynamic-prefetching-thread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid HardwareSoftware Generated Prefetching Thread Mechanism on Chip Multiprocessors</title>
+      <link>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memory Bandwidth Effective Cache Store Miss Policy</title>
+      <link>/publication/a-memory-bandwidth-effective-cache-store-miss-policy/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-memory-bandwidth-effective-cache-store-miss-policy/</guid>
       <description></description>
     </item>
     
@@ -54,33 +189,6 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
       
       <guid>/publication/p-socket-optimizing-a-communication-library-for-a-pcie-based-intra-rack-interconnect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TCNet: Cross-node Virtual Machine Communication Acceleration</title>
-      <link>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Micro-architectural Characterization of Desktop Cloud Workloads</title>
-      <link>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Hybrid HardwareSoftware Generated Prefetching Thread Mechanism on Chip Multiprocessors</title>
-      <link>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</link>
-      <pubDate>Fri, 01 Dec 2006 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</guid>
       <description></description>
     </item>
     

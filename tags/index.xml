@@ -94,6 +94,24 @@
     </item>
     
     <item>
+      <title>Security dependence</title>
+      <link>/tags/security-dependence/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/security-dependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speculative execution side-channel vulnerabilities</title>
+      <link>/tags/speculative-execution-side-channel-vulnerabilities/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/speculative-execution-side-channel-vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TLB miss rates</title>
       <link>/tags/tlb-miss-rates/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
@@ -297,6 +315,15 @@
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
       
       <guid>/tags/virtualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vulnerabilities defense</title>
+      <link>/tags/vulnerabilities-defense/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/vulnerabilities-defense/</guid>
       <description></description>
     </item>
     

@@ -7,17 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Adapting Memory Hierarchies for Emerging Datacenter Interconnects</title>
-      <link>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      <title>RAGuard An efficient and user-transparent hardware mechanism against ROP attacks</title>
+      <link>/publication/raguard-an-efficient-and-user-transparent-hardware-mechanism-against-rop-attacks/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</guid>
+      <guid>/publication/raguard-an-efficient-and-user-transparent-hardware-mechanism-against-rop-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venice An Effective Resource Sharing Architecture for Data Center Server</title>
+      <link>/publication/venice-an-effective-resource-sharing-architecture-for-data-center-server/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/venice-an-effective-resource-sharing-architecture-for-data-center-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于硬件的代码复用攻击防御机制综述</title>
+      <link>/publication/%E5%9F%BA%E4%BA%8E%E7%A1%AC%E4%BB%B6%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6%E7%BB%BC%E8%BF%B0/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/%E5%9F%BA%E4%BA%8E%E7%A1%AC%E4%BB%B6%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6%E7%BB%BC%E8%BF%B0/</guid>
       <description></description>
     </item>
     
@@ -27,6 +45,15 @@
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0800</pubDate>
       
       <guid>/publication/high-performance-general-purpose-microprocessors-past-and-future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Memory Hierarchies for Emerging Datacenter Interconnects</title>
+      <link>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/adapting-memory-hierarchies-for-emerging-datacenter-interconnects/</guid>
       <description></description>
     </item>
     
